@@ -16,6 +16,10 @@ Random based Planet, Texture, and Flag generator
 ![im1](https://github.com/TYSON-Alii/Planetarium/blob/main/galery/anan-6.png)
 ![im1](https://github.com/TYSON-Alii/Planetarium/blob/main/galery/anan-7.png)  
 ![im1](https://github.com/TYSON-Alii/Planetarium/blob/main/galery/anan-8.png) 
-![im1](https://github.com/TYSON-Alii/Planetarium/blob/main/galery/anan-9.png) 
 ![im1](https://github.com/TYSON-Alii/Planetarium/blob/main/galery/anan-10.png) 
-![im1](https://github.com/TYSON-Alii/Planetarium/blob/main/galery/anan-11.png) 
+![im1](https://github.com/TYSON-Alii/Planetarium/blob/main/galery/anan-13.png) 
+![im1](https://github.com/TYSON-Alii/Planetarium/blob/main/galery/anan-16.png) 
+![im1](https://github.com/TYSON-Alii/Planetarium/blob/main/galery/anan-18.png)
+![im1](https://github.com/TYSON-Alii/Planetarium/blob/main/galery/anan-20.png)  
+![im1](https://github.com/TYSON-Alii/Planetarium/blob/main/galery/anan-30.png) 
+
